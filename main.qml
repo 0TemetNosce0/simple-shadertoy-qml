@@ -451,7 +451,7 @@ ApplicationWindow {
                             }
                             "
             shader.fragmentShader = shader.forwordPixelShaderString + shaderText + shader.startCode
-
+            textEditor.text = shaderText
         }
     }
 
