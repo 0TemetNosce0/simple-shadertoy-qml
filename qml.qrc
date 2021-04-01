@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>png/texture0.png</file>
+        <file>png/texture1.png</file>
+        <file>png/texture2.png</file>
+        <file>png/texture3.png</file>
+        <file>png/texture4.png</file>
+        <file>png/texture5.png</file>
+        <file>png/texture6.png</file>
+        <file>png/texture7.png</file>
+        <file>png/texture8.jpg</file>
+        <file>png/texture9.jpg</file>
+        <file>png/texture10.jpg</file>
+        <file>png/texture11.jpg</file>
+        <file>png/texture12.jpg</file>
+        <file>png/texture13.jpg</file>
+        <file>png/texture14.jpg</file>
+        <file>png/texture15.jpg</file>
+        <file>png/texture16.jpg</file>
+        <file>png/texture17.jpg</file>
+        <file>png/texture18.jpg</file>
+        <file>png/texture19.jpg</file>
+        <file>png/texture20.jpg</file>
+        <file>png/texture21.png</file>
+    </qresource>
+</RCC>
